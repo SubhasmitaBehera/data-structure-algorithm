@@ -1,3 +1,5 @@
+package sort;
+
 /* Java program for Merge Sort */
 class MergeSort
 {

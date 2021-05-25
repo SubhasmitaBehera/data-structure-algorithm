@@ -1,3 +1,5 @@
+package search;
+
 import java.util.Scanner;
 
 //In binary search the array must be SORTED array.

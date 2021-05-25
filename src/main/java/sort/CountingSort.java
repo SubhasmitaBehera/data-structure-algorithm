@@ -1,3 +1,5 @@
+package sort;
+
 class CountingSort {
     void sort(char arr[])
     {

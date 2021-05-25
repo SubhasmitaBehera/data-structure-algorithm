@@ -1,3 +1,5 @@
+package search;
+
 import java.util.Scanner;
 
 //In linear search we search for a particular element from the given array.

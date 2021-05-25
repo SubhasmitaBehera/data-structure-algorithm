@@ -1,3 +1,5 @@
+package sort;
+
 import java.util.Arrays;
 
 //1: Iterate from arr[1] to arr[n] over the array.
