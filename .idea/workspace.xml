@@ -6,24 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="69838b75-ff3a-4cf8-a469-e1b80b37020c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/search/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/search/LinearSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/search/LinearSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/BubbleSortRecursively.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/BubbleSortRecursively.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/CountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/CountingSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/CountingSortInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/CountingSortInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/LinkedListSorting$node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/LinkedListSorting$node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/LinkedListSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/LinkedListSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/OptimizedBubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/OptimizedBubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/problems/KsortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/problems/KsortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/problems/SubarraySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/problems/SubarraySort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/ReverseAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/ReverseAnArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
