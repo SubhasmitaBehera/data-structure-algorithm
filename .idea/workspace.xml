@@ -35,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.MoveElementInArray">
+  <component name="RunManager" selected="Application.MaxMinOfArray">
     <configuration name="KsortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.problems.KsortedArray" />
       <module name="dsAlgo" />
@@ -49,14 +49,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinDistanceInNJumps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinDistanceInNJumps" />
+    <configuration name="MaxMinOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MaxMinOfArray" />
+      <module name="dsAlgo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinDistanceInNJumps2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinDistanceInNJumps2" />
+    <configuration name="MinDistanceInNJumps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinDistanceInNJumps" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxMinOfArray" />
         <item itemvalue="Application.MoveElementInArray" />
         <item itemvalue="Application.ReverseAnArray" />
         <item itemvalue="Application.KsortedArray" />
         <item itemvalue="Application.MinDistanceInNJumps" />
-        <item itemvalue="Application.MinDistanceInNJumps2" />
       </list>
     </recent_temporary>
   </component>
