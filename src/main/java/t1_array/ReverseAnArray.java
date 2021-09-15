@@ -1,4 +1,4 @@
-package array;
+package t1_array;
 
 //Given an array (or string), the task is to reverse the array/string.
 //        Examples :
@@ -6,9 +6,6 @@ package array;
 //
 //        Input  : arr[] = {1, 2, 3}
 //        Output : arr[] = {3, 2, 1}
-
-import java.lang.reflect.Array;
-import java.util.Scanner;
 
 public class ReverseAnArray {
     //*** In GFG ***

@@ -1,4 +1,4 @@
-package array;
+package t1_array;
 
 //Write a C function to return minimum and maximum in an array.
 //        Your program should make the minimum number of comparisons.
@@ -38,10 +38,41 @@ public class MaxMinOfArray {
     }
     /* Driver program to test above function */
     public static void main(String args[]) {
-        int arr[] = {1000, 11, 445, 1, 330, 3000};
-        int arr_size = 6;
-        Pair minmax = getMinMax(arr, arr_size);
-        System.out.printf("\nMinimum element is %d", minmax.min);
-        System.out.printf("\nMaximum element is %d", minmax.max);
+        int arr[] = {1000, 11, 445, 1, 330, 3000,2};
+//        int arr_size = 6;
+//        Pair minmax = getMinMax(arr, arr_size);
+//        System.out.printf("\nMinimum element is %d", minmax.min);
+//        System.out.printf("\nMaximum element is %d", minmax.max);
+
+//        int[] arr = {2,1,22,54,3,90,0,-231231231,2123123123};
+        int c = 0;
+        int max = Integer.MIN_VALUE,min = Integer.MAX_VALUE;
+        System.out.println(max);
+        System.out.println(min);
+
+        int i = 0,j = arr.length-1;
+        while (i < j){
+            if(arr[i] < min) {
+                min = arr[i];
+                c++;
+            }
+            if(arr[j] < min) {
+                min = arr[j];
+                c++;
+            }
+            if(arr[i] > max) {
+                max = arr[i];
+                c++;
+            }
+            if(arr[j] > max) {
+                max = arr[j];
+                c++;
+            }
+            i++;
+            j--;
+        }
+        System.out.println("max : "+max);
+        System.out.println("min : "+min);
+        System.out.println("comp : "+c);
     }
 }

@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="69838b75-ff3a-4cf8-a469-e1b80b37020c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/MaxMinOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/t1_array/MaxMinOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/MoveElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/t1_array/MoveElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/ReverseAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/t1_array/ReverseAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/MaxMinOfArray$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/MaxMinOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/MoveElementInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/ReverseAnArray.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +42,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.MaxMinOfArray">
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.BinarySearch" />
+      <module name="dsAlgo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KsortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.problems.KsortedArray" />
       <module name="dsAlgo" />
@@ -50,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="MaxMinOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.MaxMinOfArray" />
+      <option name="MAIN_CLASS_NAME" value="t1_array.MaxMinOfArray" />
       <module name="dsAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="t1_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,18 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinDistanceInNJumps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinDistanceInNJumps" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MoveElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.MoveElementInArray" />
+      <option name="MAIN_CLASS_NAME" value="t1_array.MoveElementInArray" />
       <module name="dsAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="t1_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="ReverseAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ReverseAnArray" />
+      <option name="MAIN_CLASS_NAME" value="t1_array.ReverseAnArray" />
       <module name="dsAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="t1_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.MaxMinOfArray" />
         <item itemvalue="Application.MoveElementInArray" />
         <item itemvalue="Application.ReverseAnArray" />
         <item itemvalue="Application.KsortedArray" />
-        <item itemvalue="Application.MinDistanceInNJumps" />
       </list>
     </recent_temporary>
   </component>
